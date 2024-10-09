@@ -1,6 +1,6 @@
 appName: baseus-app
 namespaceName: baseus-project
-imageReplicas: 3
+imageReplicas: 1
 image: 
   name: nginx
   tag: latest
